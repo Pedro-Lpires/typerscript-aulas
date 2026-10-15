@@ -1,0 +1,10 @@
+// "use strict";
+// let unionType = "Union Type Example";
+// console.log(unionType);
+// unionType = 123;
+// console.log(unionType);
+// let identificador;
+// identificador = 123;
+// console.log(identificador);
+// identificador = "abc";
+// console.log(identificador);

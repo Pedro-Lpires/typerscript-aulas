@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true // Impede que o TypeScript aceite variáveis do tipo any, forçando a tipagem explícita.
+  }
+}
